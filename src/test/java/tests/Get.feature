@@ -1,4 +1,4 @@
-#A simple Get API Scenario
+# A simple Get API Scenario
 
 Feature: Get API Demo
 
@@ -6,7 +6,7 @@ Feature: Get API Demo
     * url 'https://reqres.in/api'
     * header Accept = 'application/json'
 
-# Simple Get Request
+  # Simple Get Request
   Scenario: Get Demo 1
     Given url 'https://reqres.in/api/users?page=2'
     When method GET
