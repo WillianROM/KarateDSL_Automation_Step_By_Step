@@ -17,6 +17,7 @@ Feature: Post API Demo
     And print response
 
   # Post with Background
+  @second
   Scenario: Post Demo 2
     Given path "/users"
     And request {"name": "Maria", "job": "Enfermeira"}
