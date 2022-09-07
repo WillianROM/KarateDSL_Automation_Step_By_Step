@@ -8,7 +8,6 @@ function fn(){
     var env = karate.env
     karate.log('The value of env is: ',env)
 
-
     if(env == 'qa'){
         config.baseURL = 'https://reqres.in/api/qa'
     }
