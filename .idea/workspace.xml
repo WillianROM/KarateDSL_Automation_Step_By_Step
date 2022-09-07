@@ -5,13 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="232cd100-2066-49d3-9909-cccb897924c0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/data/request1.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Post.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/request2.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/tests/response1.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Put.feature" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/tests/Get.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/Get.feature" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,26 +48,7 @@
       <recent name="C:\Programação\Java\Aprendendo_KarateDSL\src\test\java\data" />
     </key>
   </component>
-  <component name="RunManager" selected="Cucumber Java.Feature: Post">
-    <configuration name="Feature: Get" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/tests/Get.feature" />
-      <option name="GLUE" value="com.intuit.karate" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="Aprendendo_KarateDSL" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
-      <option name="SUGGESTED_NAME" value="Feature: Get" />
-      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Cucumber Java.Scenario: Put Demo 1">
     <configuration name="Feature: Post" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/tests/Post.feature" />
@@ -152,13 +128,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Scenario: Put Demo 1" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/tests/Put.feature" />
+      <option name="GLUE" value="com.intuit.karate" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="Aprendendo_KarateDSL" />
+      <option name="NAME_FILTER" value="^Put Demo 1$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Put Demo 1$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Put Demo 1" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Cucumber Java.Scenario: Put Demo 1" />
         <item itemvalue="Cucumber Java.Feature: Post" />
         <item itemvalue="Cucumber Java.Scenario: Post Demo 7" />
         <item itemvalue="Cucumber Java.Scenario: Post Demo 5" />
         <item itemvalue="Cucumber Java.Scenario: Post Demo 4" />
-        <item itemvalue="Cucumber Java.Feature: Get" />
       </list>
     </recent_temporary>
   </component>
