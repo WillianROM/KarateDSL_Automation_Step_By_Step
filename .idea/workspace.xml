@@ -5,8 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="232cd100-2066-49d3-9909-cccb897924c0" name="Changes" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/test/java/karate-config.js" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/tests/ConfigDemo1.feature" afterDir="false" />
+=======
+      <change afterPath="$PROJECT_DIR$/src/test/java/tests/Delete.feature" afterDir="false" />
+>>>>>>> c76c7cee75fe1f834d93eac55806d865441e8eda
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/tests/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/tests/TestRunner.java" afterDir="false" />
     </list>
@@ -52,15 +56,26 @@
       <recent name="C:\Programação\Java\Aprendendo_KarateDSL\src\test\java\data" />
     </key>
   </component>
+<<<<<<< HEAD
   <component name="RunManager" selected="Cucumber Java.Feature: ConfigDemo1">
     <configuration name="Feature: ConfigDemo1" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/tests/ConfigDemo1.feature" />
+=======
+  <component name="RunManager" selected="Cucumber Java.Feature: Delete">
+    <configuration name="Feature: Delete" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/tests/Delete.feature" />
+>>>>>>> c76c7cee75fe1f834d93eac55806d865441e8eda
       <option name="GLUE" value="com.intuit.karate" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="Aprendendo_KarateDSL" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+<<<<<<< HEAD
       <option name="SUGGESTED_NAME" value="Feature: ConfigDemo1" />
+=======
+      <option name="SUGGESTED_NAME" value="Feature: Delete" />
+>>>>>>> c76c7cee75fe1f834d93eac55806d865441e8eda
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -72,14 +87,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+<<<<<<< HEAD
     <configuration name="Feature: Delete" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+=======
+    <configuration name="Feature: Post" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+>>>>>>> c76c7cee75fe1f834d93eac55806d865441e8eda
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/tests/Delete.feature" />
       <option name="GLUE" value="com.intuit.karate" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="Aprendendo_KarateDSL" />
       <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome" />
+<<<<<<< HEAD
       <option name="SUGGESTED_NAME" value="Feature: Delete" />
+=======
+      <option name="SUGGESTED_NAME" value="Feature: Post" />
+>>>>>>> c76c7cee75fe1f834d93eac55806d865441e8eda
       <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
       <extension name="coverage">
         <pattern>
@@ -148,11 +171,19 @@
     </configuration>
     <recent_temporary>
       <list>
+<<<<<<< HEAD
         <item itemvalue="Cucumber Java.Feature: ConfigDemo1" />
         <item itemvalue="JUnit.TestRunner" />
         <item itemvalue="Cucumber Java.Scenario: Config demo 1" />
         <item itemvalue="Cucumber Java.Feature: Delete" />
         <item itemvalue="Cucumber Java.Scenario: Put Demo 1" />
+=======
+        <item itemvalue="Cucumber Java.Feature: Delete" />
+        <item itemvalue="Cucumber Java.Scenario: Put Demo 1" />
+        <item itemvalue="Cucumber Java.Feature: Post" />
+        <item itemvalue="Cucumber Java.Scenario: Post Demo 7" />
+        <item itemvalue="Cucumber Java.Scenario: Post Demo 5" />
+>>>>>>> c76c7cee75fe1f834d93eac55806d865441e8eda
       </list>
     </recent_temporary>
   </component>
